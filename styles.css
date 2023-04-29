@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.container{
+	width:200px;
+	background-color:purple;
+	
+	border-left: 1rem solid green;
+	
+	padding: 10px;
+	
+	color:white;
+	font-size:20px;
+}
