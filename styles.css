@@ -3,6 +3,7 @@
 .container{
 	width:200px;
 	background-color:purple;
+	text-align:center;
 	
 	border-left: 5px solid green;
 	
@@ -12,5 +13,5 @@
 	
 	
 	color:white;
-	font-size:20px;
+/* 	font-size:20px; */
 }
